@@ -1,0 +1,145 @@
+.background_image{
+    background: url("../assets/field.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.ball-font{
+    font-family:'Playball';
+    color:white;
+    font-size:100px;
+    text-align:center;
+}
+
+.interactive-font{
+    font-family:'arial';
+    color:white;
+    text-align:center;
+}
+
+.sign-font{
+    font-family:'Luminari';
+    color:white;
+    text-align:center;
+}
+
+.begin-font{
+    text-align:center;
+}
+
+.info-font{
+    font-family:'Playball';
+    color:white;
+    text-align:center;
+    font-size:100px;
+}
+
+.beginning-font{
+    font-family:'impact';
+    color:black;
+    text-align:center;
+    font-size:40px;
+}
+
+.selection-font{
+    font-family:'impact';
+    color:black;
+    text-align:center;
+    font-size:30px;
+}
+
+.choice-font{
+    font-family:'impact';
+    color:white;
+    font-size:20px;
+}
+
+.made-selection-font{
+    font-family:'impact';
+    color:white;
+    font-size:25px;
+}
+
+.background_image2{
+    background: url("../assets/batting.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image3{
+    background: url("../assets/confused.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image4{
+    background: url("../assets/pitch.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image5{
+    background: url("../assets/celebration.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image6{
+    background: url("../assets/grand1.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image7{
+    background: url("../assets/ground.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image8{
+    background: url("../assets/upset.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image9{
+    background: url("../assets/catch.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
+
+.background_image10{
+    background: url("../assets/shorty.gif") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+color: white;
+}
