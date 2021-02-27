@@ -9,6 +9,8 @@
     <!-- Bootstrap CSS-->
     <link rel="stylesheet" href="styles/bootstrap.min.css">
     <link rel="stylesheet" href="styles/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css?family=Playball" rel="stylesheet">
+
 </head>
 
 <body class="bg-success text-light">
@@ -54,7 +56,8 @@
     </div>
 
     <!--Carousel-->
-    <div id="blog-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="1000">
+    <!-- Interval in milliseconds -->
+    <div id="blog-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
         <!-- Carousel Menu -->
         <ol class="carousel-indicators">
             <li data-bs-target="#blog-carousel" data-bs-slide-to="0" class="active"></li>
@@ -66,7 +69,8 @@
             <div id="slide-1" class="carousel-item active">
                 <img class="img-fluid" src="assets/virtualbox_blog.jpg">
                 <div class="carousel-caption">
-                    <h5 class="carousel-font text-dark"> Blog Post 1 </h5>
+                    <!-- Size goes in order of h1-h6. h1 being the largest and h6 being the smallest -->
+                    <h1 class="carousel-font text-dark"> Blog Post 1 </h1>
                     <p class="text-dark"> <b> A How-To Manual on how to set up virtualbox on a Mac.</b> </p>
                     <button onclick="document.location='articles/How-ToManual.html'"> Read More </button>
                 </div>
@@ -75,7 +79,7 @@
             <div id="slide-2" class="carousel-item">
                 <img class="img-fluid" src="assets/assembly.png">
                 <div class="carousel-caption">
-                    <h5 class="carousel-font text-dark">Blog Post 2</h5>
+                    <h1 class="carousel-font text-dark">Blog Post 2</h1>
                     <p class="text-dark"> <b> An explination of what Assembly Language is and its application. </b> </p>
                     <button onclick="document.location='articles/ApplicationofAssembly.html'">Read More</button>
                 </div>
